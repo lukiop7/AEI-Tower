@@ -1,3 +1,3 @@
 # AEI-Tower
-Icy Tower clone Game written in C++ and SFML Library.
+2D Icy Tower clone Game written in Object C++ and SFML Library.
 
